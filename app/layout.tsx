@@ -13,7 +13,7 @@ const inter = Inter({
 export const metadata = {
   title: "KEDIŠKĖS - Tikslūs metalo tekinimo CNC staklėmis sprendimai",
   description:
-    "Profesionalūs metalo apdirbimo paslaugos naudojant modernius CNC stakles. Garantuojame aukščiausią kokybę ir tikslumą kiekviename projekte.",
+    "Profesionalūs metalo apdirbimo paslaugos naudojant modernias CNC stakles. Garantuojame aukščiausią kokybę ir tikslumą kiekviename projekte.",
   keywords: ["CNC tekinimas", "Metalo apdirbimas", "Frezavimas", "Pramonės sprendimai", "Tikslus metalo apdirbimas"],
   authors: [{ name: "Kediškės" }],
 }
