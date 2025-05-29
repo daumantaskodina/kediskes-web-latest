@@ -1,10 +1,6 @@
 'use client';
 
 import { Phone, CheckCircle, ArrowRight } from "lucide-react"
-import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
-import { Textarea } from "@/components/ui/textarea"
-import { Label } from "@/components/ui/label"
 import Image from "next/image"
 import './global-scroll.css'
 import { useEffect } from 'react'
