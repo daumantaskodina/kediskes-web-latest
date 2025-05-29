@@ -50,7 +50,7 @@ const translations: Record<string, Record<Language, string>> = {
     en: 'Precise CNC Turning Solutions',
   },
   'hero.description': {
-    lt: 'Profesionalūs metalo apdirbimo paslaugos naudojant modernius CNC stakles. Garantuojame aukščiausią kokybę ir tikslumą kiekviename projekte.',
+    lt: 'Profesionalūs metalo apdirbimo paslaugos naudojant modernias CNC stakles. Garantuojame aukščiausią kokybę ir tikslumą kiekviename projekte.',
     en: 'Professional metal processing services using modern CNC machines. We guarantee the highest quality and precision in every project.',
   },
 
