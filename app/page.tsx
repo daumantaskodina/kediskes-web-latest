@@ -89,7 +89,7 @@ export default function HomePage() {
       <section className="relative bg-gradient-to-br from-gray-50 to-white py-24 px-6 overflow-hidden">
         {/* Ruler Pattern Background */}
         <div
-          className="absolute inset-0 opacity-[0.08]"
+          className="absolute inset-0 opacity-[0.06]"
           style={{
             backgroundImage: `
               repeating-linear-gradient(
@@ -122,7 +122,7 @@ export default function HomePage() {
 
         {/* Ruler tick marks at top and bottom */}
         <div
-          className="absolute top-0 left-0 right-0 h-2 opacity-[0.12]"
+          className="absolute top-0 left-0 right-0 h-2 opacity-[0.09]"
           style={{
             backgroundImage: `
               repeating-linear-gradient(
@@ -154,7 +154,7 @@ export default function HomePage() {
         />
 
         <div
-          className="absolute bottom-0 left-0 right-0 h-2 opacity-[0.12]"
+          className="absolute bottom-0 left-0 right-0 h-2 opacity-[0.09]"
           style={{
             backgroundImage: `
               repeating-linear-gradient(
